@@ -1,54 +1,54 @@
-Who,What,Category,Description,Where,Link
-Gelement,Smart City,,,Singapore,https://www.gelement.com/contact-us/
-ESRI,,Industry,ESRI,USA,
-MapBox,,Industry,MapBox,USA,
-Splunk,Big Data,Industry,,Globally,http://www.splunk.com/en_us/about-us/careers.html
-,,Industry,TRE,Italy,http://treuropa.com/contact/work-for-tre/
-,,NGO,Earthobservations,Switzerland,https://www.earthobservations.org/opportunities.php
-,,Industry,Webmapping,,http://webmapsolutions.com
-,,Industry,RS,Canada,www.urthecast.com
-,,Industry,Webmapping,Globally,https://here.com and http://360.here.com/
-,,Industry,Webmapping,,http://360.here.com/
-,,Industry,RS,North America,http://mdacorporation.com/corporate/careers/current-opportunities
-,,Industry,RS,USA,http://radiant.earth/
-,,Industry,RS,Netherlands,https://skygeo.com/
-,,Think Tank,Data,Europe,https://www.big-data-europe.eu/
-,,Research,Search (Social Media),Singapore,http://next.comp.nus.edu.sg/
-IBM,,Industry,IBM,Globally,http://www-03.ibm.com/employment/?lnk=mca
-,,Think Tank,Merics,Berlin,https://www.merics.org/de/ueber-uns/programme/european-china-policy-unit/ectp/ectp2017/
-,,Industry,Webmapping,Bulgaria,http://www.mapwizard.eu/#home
-,,Research,Risk,Germany,http://www.geo-x.net/research-school/
-,,Industry,Consulting and Training,USA,https://www.experfy.com/
-,,Research,Geographic Data Science Lab,UK,https://geographicdatascience.com/about/join-us/
-,,News,GIS Lounge,Globally,https://www.gislounge.com
-,,Research,GNS Science,New Zealand,http://info.geonet.org.nz/display/geonet/Contact+the+team+at+GeoNet
-,,Industry,First Solar,USA,http://www.firstsolar.com/en/About-Us/Locations
-,,Research,SENSUM,Italy,http://www.sensum-project.eu/Remote-sensing-tool
-,,Industry,McKinsey&Company,Brasil,http://www.mckinsey.com/careers/search-jobs/jobs/advanced-analytics-geospatial-data-scientist-0456
-,,Research,ESA,EUROPE,http://www.esa.int/About_Us/Careers_at_ESA/What_you_need_to_know_about_the_Research_Fellowship
-,,Industry,DainStudio,Germany/Finland,http://www.dainstudios.com/
-,,Industry,Datenlabor,Germany,http://datenlabor.berlin/index.php?id=7
-,,Industry,Agile Analytics Group,USA,https://agileanalyticsgroup.recruiterbox.com/
-,,Society,Location Analysis,Globally,http://www.thesla.org/
-,,Industry,GIS,NZ,http://www.interpret.co.nz/
-,,Industry,Health,US,http://www.rwjf.org/
-,,Industry,Energy,Germany,https://vortex-energy-group.com/de/
-,,Government,Smart City,Singapore,https://www.smartnation.sg/
-,,Industry,mapegy,Germany,http://www.mapegy.com/product
-,,Industry,Leverton,Germany,https://leverton.de/
-,,Industry,Inspirient,Germany,https://www.inspirient.com
-,,Industry,Planet,Germany,http://www.planet.de/
-,,Industry,Terraloupe,Germany,http://www.terraloupe.com/team/
-,,Industry,Urban Insights,US,www.urban-insights.com
-,,Industry,Imagesatintl,Isreal,http://www.imagesatintl.com
-,,Industry,Azavea,US,https://www.azavea.com/
-,,Industry,AstroDigital,US,https://www.astrodigital.com/team/
-,,Industry,Orbital Insight,US,https://orbitalinsight.com
-,,Industry,Descartes Lab,US,https://www.descarteslabs.com/contact.html
-,,Industry,DELL EMC,Globally,https://www.emc.com
-,,Industry,civil,USA,https://www.civisanalytics.com/
-,,Industry,Digital Globe,USA,https://www.digitalglobe.com/
-,,Industry,1Spatial,UK,https://1spatial.com/
-,,Industry,OmniEarth,USA,http://www.omniearth.net
-,,Industry,Hexagon Geospatial,USA,http://www.hexagongeospatial.com/
-,,Industry,Geoimage,Australia,http://www.geoimage.com.au/
+Who,What,Category,Description,Where,LAT/LON,Link
+Gelement,Smart City,,,Singapore,,https://www.gelement.com/contact-us/
+ESRI,,Industry,ESRI,USA,,
+MapBox,,Industry,MapBox,USA,,
+Splunk,Big Data,Industry,,Globally,,http://www.splunk.com/en_us/about-us/careers.html
+TRE,,Industry,TRE,Italy,,http://treuropa.com/contact/work-for-tre/
+Earthobservations,,NGO,Earthobservations,Switzerland,,https://www.earthobservations.org/opportunities.php
+Webmapsolutions,,Industry,Webmapping,,,http://webmapsolutions.com
+,,Industry,RS,Canada,,www.urthecast.com
+,,Industry,Webmapping,Globally,,https://here.com and http://360.here.com/
+,,Industry,Webmapping,,,http://360.here.com/
+,,Industry,RS,North America,,http://mdacorporation.com/corporate/careers/current-opportunities
+,,Industry,RS,USA,,http://radiant.earth/
+,,Industry,RS,Netherlands,,https://skygeo.com/
+,,Think Tank,Data,Europe,,https://www.big-data-europe.eu/
+,,Research,Search (Social Media),Singapore,,http://next.comp.nus.edu.sg/
+IBM,,Industry,IBM,Globally,,http://www-03.ibm.com/employment/?lnk=mca
+,,Think Tank,Merics,Berlin,,https://www.merics.org/de/ueber-uns/programme/european-china-policy-unit/ectp/ectp2017/
+,,Industry,Webmapping,Bulgaria,,http://www.mapwizard.eu/#home
+,,Research,Risk,Germany,,http://www.geo-x.net/research-school/
+,,Industry,Consulting and Training,USA,,https://www.experfy.com/
+,,Research,Geographic Data Science Lab,UK,,https://geographicdatascience.com/about/join-us/
+,,News,GIS Lounge,Globally,,https://www.gislounge.com
+,,Research,GNS Science,New Zealand,,http://info.geonet.org.nz/display/geonet/Contact+the+team+at+GeoNet
+,,Industry,First Solar,USA,,http://www.firstsolar.com/en/About-Us/Locations
+,,Research,SENSUM,Italy,,http://www.sensum-project.eu/Remote-sensing-tool
+,,Industry,McKinsey&Company,Brasil,,http://www.mckinsey.com/careers/search-jobs/jobs/advanced-analytics-geospatial-data-scientist-0456
+,,Research,ESA,EUROPE,,http://www.esa.int/About_Us/Careers_at_ESA/What_you_need_to_know_about_the_Research_Fellowship
+,,Industry,DainStudio,Germany/Finland,,http://www.dainstudios.com/
+,,Industry,Datenlabor,Germany,,http://datenlabor.berlin/index.php?id=7
+,,Industry,Agile Analytics Group,USA,,https://agileanalyticsgroup.recruiterbox.com/
+,,Society,Location Analysis,Globally,,http://www.thesla.org/
+,,Industry,GIS,NZ,,http://www.interpret.co.nz/
+,,Industry,Health,US,,http://www.rwjf.org/
+,,Industry,Energy,Germany,,https://vortex-energy-group.com/de/
+,,Government,Smart City,Singapore,,https://www.smartnation.sg/
+,,Industry,mapegy,Germany,,http://www.mapegy.com/product
+,,Industry,Leverton,Germany,,https://leverton.de/
+,,Industry,Inspirient,Germany,,https://www.inspirient.com
+,,Industry,Planet,Germany,,http://www.planet.de/
+,,Industry,Terraloupe,Germany,,http://www.terraloupe.com/team/
+,,Industry,Urban Insights,US,,www.urban-insights.com
+,,Industry,Imagesatintl,Isreal,,http://www.imagesatintl.com
+,,Industry,Azavea,US,,https://www.azavea.com/
+,,Industry,AstroDigital,US,,https://www.astrodigital.com/team/
+,,Industry,Orbital Insight,US,,https://orbitalinsight.com
+,,Industry,Descartes Lab,US,,https://www.descarteslabs.com/contact.html
+,,Industry,DELL EMC,Globally,,https://www.emc.com
+,,Industry,civil,USA,,https://www.civisanalytics.com/
+,,Industry,Digital Globe,USA,,https://www.digitalglobe.com/
+,,Industry,1Spatial,UK,,https://1spatial.com/
+,,Industry,OmniEarth,USA,,http://www.omniearth.net
+,,Industry,Hexagon Geospatial,USA,,http://www.hexagongeospatial.com/
+,,Industry,Geoimage,Australia,,http://www.geoimage.com.au/
